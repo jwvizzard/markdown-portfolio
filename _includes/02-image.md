@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Headshot of James Vizzard] (https://github.com/jwvizzard/resources/blob/master/VizzardJ_Headshot_201901.jpg)
