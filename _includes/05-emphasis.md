@@ -1,3 +1,3 @@
-* Self-awareness
-* Humility
-* Dry sense of humor
+- _Self-awareness_
+- **Humility**
+- _**Humor**_
